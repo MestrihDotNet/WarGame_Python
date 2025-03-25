@@ -1,6 +1,6 @@
-War Card Game
+# H1 War Card Game
 
-Description
+## H2 Description
 
 This is a simple Python implementation of the classic "War" card game. The game is played between two players who are dealt an equal number of shuffled cards. Each round, both players reveal their top card, and the player with the higher-ranked card wins the round. If the cards are of equal rank, a "war" is initiated, where additional cards are played to determine the winner.
 
